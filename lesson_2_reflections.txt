@@ -22,6 +22,8 @@ With the diagram, I see how commits could be traced on a branch with id
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+Merging two branches together combine changes made in bothe files. The diagram
+shows how changes (commits) could be traced and at what point they were merged
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
