@@ -27,3 +27,6 @@ shows how changes (commits) could be traced and at what point they were merged
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+Manually merging gives more control to the user. If there is a conflict in
+commit while merging, the conflict could be resolved by the users manually by
+editing and commiting the conflict
