@@ -31,7 +31,9 @@ stored locally?
 How would you collaborate without using Git or GitHub? What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    I can colaborate by sharing files with a flash drive, or using the same
+    system to work. This is going to be difficult if who I'm colaborating with
+    is in a different location.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
